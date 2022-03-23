@@ -5,7 +5,7 @@ import struct
 import sys
 import time
 import six.moves._thread
-from impacket import ImpactDecoder, ImpactPacket
+#from impacket import ImpactDecoder, ImpactPacket
 from six.moves import range
 
 
